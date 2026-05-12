@@ -1,0 +1,19 @@
+# Environments and Secrets
+.env
+venv/
+env/
+
+# Auto-generated and Cache
+__pycache__/
+*.pyc
+chroma_db/
+
+# User Data and DBs
+api_uploads/
+api_outputs/
+instance/
+*.sqlite3
+*.db
+
+# Frontend
+frontend/node_modules/
