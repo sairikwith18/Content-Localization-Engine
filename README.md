@@ -56,7 +56,3 @@ Unlike standard machine translation APIs that ruin technical context by translat
 * Python (3.10+)
 * Git
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YourUsername/SafeHorizon.git](https://github.com/YourUsername/SafeHorizon.git)
-cd SafeHorizon
